@@ -1,0 +1,5 @@
+INFO:root:Идет процесс сбора данных
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): openexchangerates.org:443
+DEBUG:urllib3.connectionpool:https://openexchangerates.org:443 "GET /api/historical/2022-07-25.json?app_id=f79098f7a53943e697db8b6221962000 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): openexchangerates.org:443
+DEBUG:urllib3.connectionpool:https://openexchangerates.org:443 "GET /api/currencies.json HTTP/1.1" 200 None
